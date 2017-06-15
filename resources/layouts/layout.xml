@@ -1,0 +1,30 @@
+<layout id="WatchFace">
+    <label id="TimeLabel" x="center" y="center" font="Gfx.FONT_NUMBER_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" /><label
+    	id="BattLabel" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE">
+</label>
+	<label id="LocLabel" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
+	<label id="StepLabel" font="Gfx.FONT_SMALL"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE">
+	</label>
+	<label id="MoveLabel" font="Gfx.FONT_SMALL"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE">
+	</label>
+	<label id="DistLabel" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
+	<label id="DateLabel" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
+	<label id="DateLabelDay" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
+	<label id="SunLabel" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
+	<label id="SunLabel2" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
+	<bitmap id="SunRise" filename="../images/iconholder2.png"/>
+	<label id="MultLabel" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
+	<label id="TestLabel" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"></label>
+	<label id="SecLabel" font="Gfx.FONT_TINY"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE">
+	</label>
+	<bitmap id="SunSet" filename="../images/iconholder2.png"></bitmap>
+	<bitmap id="Blue" filename="../images/iconholder2.png"></bitmap>
+	<bitmap id="Notification" filename="../images/iconholder2.png"></bitmap>
+	<bitmap id="HeartRate" filename="../images/iconholder2.png"></bitmap>
+	<label id="HeartLabel" font="Gfx.FONT_TINY"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE">
+	</label>
+</layout>

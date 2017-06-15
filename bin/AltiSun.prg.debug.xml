@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="31" pc="268435456" symbol="calcHourAngleSunrise"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="32" pc="268435458" symbol="calcHourAngleSunrise"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="33" pc="268435473" symbol="calcHourAngleSunrise"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="35" pc="268435488" symbol="calcHourAngleSunrise"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="37" pc="268435620" symbol="calcHourAngleSunrise"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="52" pc="268435624" symbol="calcHourAngleSunset"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="53" pc="268435626" symbol="calcHourAngleSunset"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="54" pc="268435641" symbol="calcHourAngleSunset"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="56" pc="268435656" symbol="calcHourAngleSunset"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="58" pc="268435788" symbol="calcHourAngleSunset"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="70" pc="268435798" symbol="calcGeomMeanLongSun"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="71" pc="268435800" symbol="calcGeomMeanLongSun"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="80" pc="268435825" symbol="calcGeomMeanLongSun"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="93" pc="268435845" symbol="calcGeomMeanAnomalySun"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="94" pc="268435847" symbol="calcGeomMeanAnomalySun"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="95" pc="268435872" symbol="calcGeomMeanAnomalySun"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="107" pc="268435876" symbol="calcEccentricityEarthOrbit"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="108" pc="268435878" symbol="calcEccentricityEarthOrbit"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="109" pc="268435903" symbol="calcEccentricityEarthOrbit"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="121" pc="268435907" symbol="calcSunEqOfCenter"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="122" pc="268435909" symbol="calcSunEqOfCenter"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="124" pc="268435924" symbol="calcSunEqOfCenter"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="125" pc="268435939" symbol="calcSunEqOfCenter"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="126" pc="268435960" symbol="calcSunEqOfCenter"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="127" pc="268435984" symbol="calcSunEqOfCenter"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="129" pc="268436011" symbol="calcSunEqOfCenter"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="130" pc="268436066" symbol="calcSunEqOfCenter"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="145" pc="268436070" symbol="calcSunTrueLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="146" pc="268436072" symbol="calcSunTrueLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="147" pc="268436087" symbol="calcSunTrueLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="149" pc="268436102" symbol="calcSunTrueLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="150" pc="268436109" symbol="calcSunTrueLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="162" pc="268436113" symbol="calcSunTrueAnomaly"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="163" pc="268436115" symbol="calcSunTrueAnomaly"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="164" pc="268436130" symbol="calcSunTrueAnomaly"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="166" pc="268436145" symbol="calcSunTrueAnomaly"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="167" pc="268436152" symbol="calcSunTrueAnomaly"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="179" pc="268436156" symbol="calcSunRadVector"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="180" pc="268436158" symbol="calcSunRadVector"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="181" pc="268436173" symbol="calcSunRadVector"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="183" pc="268436188" symbol="calcSunRadVector"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="184" pc="268436247" symbol="calcSunRadVector"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="196" pc="268436251" symbol="calcSunApparentLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="197" pc="268436253" symbol="calcSunApparentLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="199" pc="268436268" symbol="calcSunApparentLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="200" pc="268436284" symbol="calcSunApparentLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="201" pc="268436331" symbol="calcSunApparentLong"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="213" pc="268436335" symbol="calcMeanObliquityOfEcliptic"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="214" pc="268436337" symbol="calcMeanObliquityOfEcliptic"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="215" pc="268436371" symbol="calcMeanObliquityOfEcliptic"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="216" pc="268436399" symbol="calcMeanObliquityOfEcliptic"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="228" pc="268436403" symbol="calcObliquityCorrection"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="229" pc="268436405" symbol="calcObliquityCorrection"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="231" pc="268436420" symbol="calcObliquityCorrection"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="232" pc="268436436" symbol="calcObliquityCorrection"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="233" pc="268436477" symbol="calcObliquityCorrection"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="245" pc="268436481" symbol="calcSunRtAscension"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="246" pc="268436483" symbol="calcSunRtAscension"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="247" pc="268436498" symbol="calcSunRtAscension"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="249" pc="268436513" symbol="calcSunRtAscension"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="250" pc="268436576" symbol="calcSunRtAscension"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="251" pc="268436608" symbol="calcSunRtAscension"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="253" pc="268436642" symbol="calcSunRtAscension"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="265" pc="268436646" symbol="calcSunDeclination"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="266" pc="268436648" symbol="calcSunDeclination"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="267" pc="268436663" symbol="calcSunDeclination"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="269" pc="268436678" symbol="calcSunDeclination"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="270" pc="268436741" symbol="calcSunDeclination"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="273" pc="268436773" symbol="calcSunDeclination"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="285" pc="268436777" symbol="calcTimeJulianCent"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="286" pc="268436779" symbol="calcTimeJulianCent"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="287" pc="268436795" symbol="calcTimeJulianCent"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="299" pc="268436799" symbol="calcJDFromJulianCent"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="300" pc="268436801" symbol="calcJDFromJulianCent"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="301" pc="268436817" symbol="calcJDFromJulianCent"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="315" pc="268436821" symbol="calcSolNoonUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="317" pc="268436823" symbol="calcSolNoonUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="318" pc="268436858" symbol="calcSolNoonUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="319" pc="268436873" symbol="calcSolNoonUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="321" pc="268436892" symbol="calcSolNoonUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="323" pc="268436933" symbol="calcSolNoonUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="325" pc="268436948" symbol="calcSolNoonUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="327" pc="268436967" symbol="calcSolNoonUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="340" pc="268436971" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="341" pc="268436973" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="342" pc="268436988" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="343" pc="268437003" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="344" pc="268437018" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="346" pc="268437033" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="347" pc="268437071" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="349" pc="268437078" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="350" pc="268437116" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="351" pc="268437148" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="352" pc="268437186" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="353" pc="268437224" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="355" pc="268437262" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="359" pc="268437329" symbol="calcEquationOfTime"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="374" pc="268437350" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="375" pc="268437352" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="380" pc="268437367" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="381" pc="268437384" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="384" pc="268437408" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="385" pc="268437423" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="386" pc="268437438" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="388" pc="268437455" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="389" pc="268437473" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="390" pc="268437483" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="393" pc="268437496" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="394" pc="268437531" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="395" pc="268437546" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="396" pc="268437561" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="398" pc="268437578" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="399" pc="268437596" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="400" pc="268437606" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="402" pc="268437619" symbol="calcSunsetUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="417" pc="268437623" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="418" pc="268437625" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="424" pc="268437640" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="425" pc="268437657" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="428" pc="268437681" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="429" pc="268437696" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="430" pc="268437711" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="432" pc="268437728" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="433" pc="268437746" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="434" pc="268437756" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="438" pc="268437769" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="439" pc="268437804" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="440" pc="268437819" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="441" pc="268437834" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="442" pc="268437851" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="443" pc="268437869" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="444" pc="268437879" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="447" pc="268437892" symbol="calcSunriseUTC"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="455" pc="268437896" symbol="degToRad"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="457" pc="268437898" symbol="degToRad"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="460" pc="268437921" symbol="radToDeg"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="462" pc="268437923" symbol="radToDeg"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="467" pc="268437946" symbol="modulus"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunsetSunrise.mc" lineNum="469" pc="268437948" symbol="modulus"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\SunTuple.mc" lineNum="12" pc="268437971" symbol="initialize"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="11" pc="268437974" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="13" pc="268437976" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="16" pc="268438031" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="18" pc="268438053" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="20" pc="268438072" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="22" pc="268438097" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="23" pc="268438107" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="27" pc="268438117" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="29" pc="268438235" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="32" pc="268438266" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="35" pc="268438285" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="38" pc="268438304" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="41" pc="268438323" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="44" pc="268438342" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="50" pc="268438382" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="54" pc="268438444" symbol="evaluateJulianDay"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="72" pc="268438448" symbol="calcJD"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="73" pc="268438450" symbol="calcJD"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="74" pc="268438461" symbol="calcJD"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="75" pc="268438471" symbol="calcJD"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="77" pc="268438484" symbol="calcJD"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="78" pc="268438503" symbol="calcJD"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="80" pc="268438531" symbol="calcJD"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="81" pc="268438592" symbol="calcJD"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="92" pc="268438596" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="93" pc="268438598" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="94" pc="268438653" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="95" pc="268438663" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="96" pc="268438679" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="97" pc="268438689" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="98" pc="268438699" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="99" pc="268438709" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="102" pc="268438719" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="103" pc="268438756" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="104" pc="268438769" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="105" pc="268438859" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="107" pc="268438889" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="108" pc="268438908" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\JulianDay.mc" lineNum="110" pc="268438938" symbol="calcJDNow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="54" pc="268438943" symbol="initialize"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="55" pc="268438945" symbol="initialize"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="56" pc="268438963" symbol="initialize"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="60" pc="268438976" symbol="onLayout"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="61" pc="268438978" symbol="onLayout"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="62" pc="268439015" symbol="onLayout"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="63" pc="268439034" symbol="onLayout"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="65" pc="268439053" symbol="onLayout"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="66" pc="268439083" symbol="onLayout"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="67" pc="268439105" symbol="onLayout"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="73" pc="268439128" symbol="onShow"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="77" pc="268439131" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="83" pc="268439133" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="84" pc="268439140" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="85" pc="268439157" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="86" pc="268439167" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="87" pc="268439177" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="90" pc="268439187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="91" pc="268439204" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="92" pc="268439217" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="93" pc="268439228" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="95" pc="268439290" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="96" pc="268439301" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="98" pc="268439363" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="103" pc="268439428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="107" pc="268439445" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="112" pc="268439455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="113" pc="268439497" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="114" pc="268439519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="115" pc="268439536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="120" pc="268439555" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="121" pc="268439568" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="122" pc="268439588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="124" pc="268439610" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="126" pc="268439629" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="127" pc="268439646" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="130" pc="268439662" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="131" pc="268439695" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="132" pc="268439719" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="134" pc="268439754" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="136" pc="268439825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="137" pc="268439849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="138" pc="268439866" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="139" pc="268439912" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="141" pc="268439965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="142" pc="268440005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="144" pc="268440055" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="148" pc="268440098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="149" pc="268440105" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="150" pc="268440166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="151" pc="268440191" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="152" pc="268440216" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="154" pc="268440241" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="156" pc="268440290" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="163" pc="268440336" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="164" pc="268440360" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="165" pc="268440377" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="167" pc="268440417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="169" pc="268440460" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="171" pc="268440500" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="175" pc="268440540" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="176" pc="268440557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="177" pc="268440588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="178" pc="268440632" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="179" pc="268440652" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="181" pc="268440678" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="182" pc="268440732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="183" pc="268440732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="184" pc="268440776" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="185" pc="268440796" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="188" pc="268440822" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="189" pc="268440846" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="190" pc="268440860" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="193" pc="268440900" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="194" pc="268440924" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="195" pc="268440938" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="198" pc="268440978" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="199" pc="268441002" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="200" pc="268441016" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="203" pc="268441044" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="206" pc="268441076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="207" pc="268441099" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="208" pc="268441116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="210" pc="268441126" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="213" pc="268441149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="214" pc="268441173" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="215" pc="268441186" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="218" pc="268441252" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="219" pc="268441285" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="220" pc="268441309" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="221" pc="268441366" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="224" pc="268441400" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="225" pc="268441432" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="226" pc="268441449" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="232" pc="268441459" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="233" pc="268441472" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="234" pc="268441504" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="235" pc="268441528" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="236" pc="268441545" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="237" pc="268441569" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="238" pc="268441607" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="240" pc="268441644" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="241" pc="268441682" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="244" pc="268441736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="246" pc="268441759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="250" pc="268441793" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="251" pc="268441806" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="252" pc="268441836" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="253" pc="268441863" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="254" pc="268441877" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="255" pc="268441889" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="258" pc="268441905" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="259" pc="268441930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="260" pc="268441960" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="261" pc="268441976" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="262" pc="268442003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="263" pc="268442017" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="264" pc="268442029" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="269" pc="268442045" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="270" pc="268442052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="271" pc="268442059" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="272" pc="268442083" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="274" pc="268442094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="275" pc="268442128" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="276" pc="268442141" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="277" pc="268442162" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="278" pc="268442236" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="279" pc="268442256" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="281" pc="268442293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="284" pc="268442313" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="285" pc="268442334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="287" pc="268442351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="289" pc="268442391" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="290" pc="268442398" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="292" pc="268442405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="293" pc="268442480" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="294" pc="268442504" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="295" pc="268442528" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="296" pc="268442550" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="297" pc="268442572" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="298" pc="268442588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="299" pc="268442620" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="300" pc="268442648" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="301" pc="268442665" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="303" pc="268442685" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="309" pc="268442722" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="310" pc="268442746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="311" pc="268442770" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="312" pc="268442792" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="313" pc="268442814" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="314" pc="268442830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="315" pc="268442862" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="318" pc="268442890" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="319" pc="268442914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="320" pc="268442938" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="321" pc="268442960" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="322" pc="268442982" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="323" pc="268442998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="324" pc="268443030" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="327" pc="268443058" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="328" pc="268443070" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="329" pc="268443094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="330" pc="268443116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="331" pc="268443138" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="332" pc="268443154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="334" pc="268443180" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="335" pc="268443204" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="343" pc="268443221" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="344" pc="268443232" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="345" pc="268443256" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="346" pc="268443278" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="347" pc="268443300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="348" pc="268443316" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="350" pc="268443351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="351" pc="268443375" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="353" pc="268443409" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="354" pc="268443426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="355" pc="268443450" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="356" pc="268443472" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="357" pc="268443494" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="358" pc="268443510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="360" pc="268443545" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="361" pc="268443569" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="365" pc="268443603" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="369" pc="268443623" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="370" pc="268443650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="371" pc="268443661" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="373" pc="268443700" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="376" pc="268443736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="378" pc="268443747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="379" pc="268443801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="380" pc="268443837" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="384" pc="268443894" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="385" pc="268443930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="387" pc="268443963" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="388" pc="268443996" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="389" pc="268444010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="390" pc="268444049" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="391" pc="268444053" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="392" pc="268444067" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="393" pc="268444091" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="394" pc="268444116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="395" pc="268444149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="397" pc="268444160" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="400" pc="268444188" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="403" pc="268444216" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="406" pc="268444236" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="408" pc="268444260" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="409" pc="268444286" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="410" pc="268444329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="411" pc="268444386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="412" pc="268444422" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="413" pc="268444465" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="415" pc="268444522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="416" pc="268444548" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="418" pc="268444581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="419" pc="268444617" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="425" pc="268444650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="426" pc="268444657" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="427" pc="268444664" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="428" pc="268444683" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="429" pc="268444690" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="430" pc="268444726" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="431" pc="268444770" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="433" pc="268444829" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="434" pc="268444840" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="436" pc="268444890" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="438" pc="268444929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="439" pc="268444965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="440" pc="268445009" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="442" pc="268445068" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="445" pc="268445130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="446" pc="268445159" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="447" pc="268445195" symbol="onUpdate"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="453" pc="268445250" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="454" pc="268445252" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="455" pc="268445267" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="456" pc="268445286" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="457" pc="268445305" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="458" pc="268445330" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="459" pc="268445355" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="460" pc="268445362" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="461" pc="268445367" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="463" pc="268445388" symbol="drawCircleMarker"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="471" pc="268445420" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="472" pc="268445422" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="473" pc="268445441" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="474" pc="268445460" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="475" pc="268445485" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="476" pc="268445510" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="477" pc="268445515" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="479" pc="268445536" symbol="drawSecondHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="490" pc="268445555" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="491" pc="268445557" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="492" pc="268445700" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="493" pc="268445714" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="494" pc="268445733" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="496" pc="268445752" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="497" pc="268445757" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="499" pc="268445771" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="500" pc="268445795" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="501" pc="268445835" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="503" pc="268445875" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="505" pc="268445919" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="507" pc="268445936" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="508" pc="268445939" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="509" pc="268445942" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="510" pc="268445966" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="511" pc="268446006" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="512" pc="268446046" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="514" pc="268446060" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="516" pc="268446080" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="517" pc="268446084" symbol="drawHand"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="523" pc="268446102" symbol="dayMinsToHM"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="524" pc="268446104" symbol="dayMinsToHM"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="525" pc="268446123" symbol="dayMinsToHM"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="526" pc="268446145" symbol="dayMinsToHM"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="528" pc="268446186" symbol="dayMinsToHM"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="532" pc="268446190" symbol="HMTodayMins"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="533" pc="268446192" symbol="HMTodayMins"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="534" pc="268446211" symbol="HMTodayMins"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="535" pc="268446233" symbol="HMTodayMins"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="537" pc="268446274" symbol="HMTodayMins"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="541" pc="268446278" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="544" pc="268446280" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="545" pc="268446293" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="548" pc="268446306" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="549" pc="268446384" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="550" pc="268446427" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="551" pc="268446470" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="552" pc="268446498" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="554" pc="268446526" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="555" pc="268446556" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="556" pc="268446572" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="557" pc="268446588" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="558" pc="268446645" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="561" pc="268446690" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="562" pc="268446703" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="563" pc="268446724" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="564" pc="268446755" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="566" pc="268446786" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="569" pc="268446799" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="571" pc="268446827" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="573" pc="268446837" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="576" pc="268446874" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="578" pc="268446895" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="579" pc="268446905" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="580" pc="268446948" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="581" pc="268446991" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="582" pc="268447024" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="583" pc="268447043" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="585" pc="268447062" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="588" pc="268447075" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="590" pc="268447103" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="592" pc="268447113" symbol="onPosition"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="599" pc="268447148" symbol="drawSunInfo"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="601" pc="268447150" symbol="drawSunInfo"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="602" pc="268447174" symbol="drawSunInfo"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="605" pc="268447201" symbol="drawSunInfo"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="606" pc="268447225" symbol="drawSunInfo"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="609" pc="268447239" symbol="drawSunInfo"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="610" pc="268447263" symbol="drawSunInfo"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="613" pc="268447290" symbol="drawSunInfo"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="614" pc="268447314" symbol="drawSunInfo"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="620" pc="268447329" symbol="abs"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="622" pc="268447331" symbol="abs"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="623" pc="268447342" symbol="abs"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="625" pc="268447354" symbol="abs"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="631" pc="268447358" symbol="getSettings"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="633" pc="268447360" symbol="getSettings"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="634" pc="268447382" symbol="getSettings"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="638" pc="268447395" symbol="readSettings"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="639" pc="268447397" symbol="readSettings"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="640" pc="268447434" symbol="readSettings"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="641" pc="268447471" symbol="readSettings"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="647" pc="268447481" symbol="onHide"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="651" pc="268447484" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="652" pc="268447486" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="653" pc="268447496" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="657" pc="268447513" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="658" pc="268447515" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunView.mc" lineNum="659" pc="268447525" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunApp.mc" lineNum="8" pc="268447542" symbol="initialize"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunApp.mc" lineNum="9" pc="268447544" symbol="initialize"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunApp.mc" lineNum="14" pc="268447563" symbol="getInitialView"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunApp.mc" lineNum="15" pc="268447565" symbol="getInitialView"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunApp.mc" lineNum="16" pc="268447595" symbol="getInitialView"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunApp.mc" lineNum="21" pc="268447619" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunApp.mc" lineNum="22" pc="268447621" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\glavaux\\workspace\\AltiSun\\source\\AltiSunApp.mc" lineNum="23" pc="268447639" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="30" pc="268447656" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268447658" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268447821" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268447846" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268447898" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268447944" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268448051" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="38" pc="268448158" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="39" pc="268448265" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="40" pc="268448372" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="41" pc="268448479" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="42" pc="268448586" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="43" pc="268448693" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="44" pc="268448800" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="45" pc="268448907" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="46" pc="268448982" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="47" pc="268449089" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="48" pc="268449196" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="49" pc="268449303" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="50" pc="268449378" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="51" pc="268449453" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="52" pc="268449528" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="53" pc="268449603" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="56" pc="268449710" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="71" symbol="testMsg"/>
+<entry field="true" id="62" symbol="sunTuple"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8389596" symbol="Notification"/>
+<entry field="true" id="69" symbol="onSleep"/>
+<entry field="true" id="59" symbol="utcOffset"/>
+<entry id="11" object="true" symbol="AltiSunView"/>
+<entry id="12" object="true" symbol="AltiSunApp"/>
+<entry field="true" id="66" symbol="SS"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry field="true" id="13" symbol="mSunrise"/>
+<entry id="31" method="true" symbol="calcJD"/>
+<entry id="78" method="true" symbol="drawSecondHand"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="34" method="true" symbol="calcHourAngleSunset"/>
+<entry id="9" object="true" symbol="SunTuple"/>
+<entry field="true" id="22" symbol="SunRise"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="65" symbol="JD"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="60" symbol="nextSunPhase"/>
+<entry id="33" method="true" symbol="calcHourAngleSunrise"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="30" method="true" symbol="evaluateJulianDay"/>
+<entry id="41" method="true" symbol="calcSunRadVector"/>
+<entry id="50" method="true" symbol="calcEquationOfTime"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="47" method="true" symbol="calcTimeJulianCent"/>
+<entry field="true" id="18" symbol="SunriseIcon"/>
+<entry field="true" id="19" symbol="BluetoothIcon"/>
+<entry id="48" method="true" symbol="calcJDFromJulianCent"/>
+<entry field="true" id="73" symbol="locChangedNum"/>
+<entry id="83" method="true" symbol="drawSunInfo"/>
+<entry id="10" object="true" symbol="JulianDay"/>
+<entry id="85" method="true" symbol="readSettings"/>
+<entry id="53" method="true" symbol="degToRad"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="54" method="true" symbol="radToDeg"/>
+<entry id="35" method="true" symbol="calcGeomMeanLongSun"/>
+<entry field="true" id="29" symbol="AppName"/>
+<entry field="true" id="86" symbol="view"/>
+<entry id="37" method="true" symbol="calcEccentricityEarthOrbit"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry id="46" method="true" symbol="calcSunDeclination"/>
+<entry id="79" method="true" symbol="drawHand"/>
+<entry field="true" id="64" symbol="deltaMin"/>
+<entry field="true" id="27" symbol="LatitudeTitle"/>
+<entry id="8" object="true" symbol="SunsetSunrise"/>
+<entry id="55" method="true" symbol="modulus"/>
+<entry field="true" id="67" symbol="lonW"/>
+<entry field="true" id="25" symbol="HeartRate"/>
+<entry id="43" method="true" symbol="calcMeanObliquityOfEcliptic"/>
+<entry field="true" id="63" symbol="oldSunTuple"/>
+<entry id="44" method="true" symbol="calcObliquityCorrection"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="26" symbol="LauncherIcon"/>
+<entry id="81" method="true" symbol="HMTodayMins"/>
+<entry id="8388646" symbol="Timer"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="36" method="true" symbol="calcGeomMeanAnomalySun"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="76" symbol="VERSION"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8388963" symbol="altitude"/>
+<entry id="49" method="true" symbol="calcSolNoonUTC"/>
+<entry id="45" method="true" symbol="calcSunRtAscension"/>
+<entry id="42" method="true" symbol="calcSunApparentLong"/>
+<entry id="32" method="true" symbol="calcJDNow"/>
+<entry id="8388774" method="true" symbol="abs"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="40" method="true" symbol="calcSunTrueAnomaly"/>
+<entry id="8389347" symbol="color"/>
+<entry id="51" method="true" symbol="calcSunsetUTC"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry field="true" id="70" symbol="testShow"/>
+<entry field="true" id="23" symbol="SunSet"/>
+<entry id="82" method="true" symbol="onPosition"/>
+<entry field="true" id="24" symbol="Blue"/>
+<entry id="77" method="true" symbol="drawCircleMarker"/>
+<entry id="52" method="true" symbol="calcSunriseUTC"/>
+<entry id="80" method="true" symbol="dayMinsToHM"/>
+<entry id="16" module="true" symbol="Layouts"/>
+<entry field="true" id="68" symbol="latN"/>
+<entry field="true" id="14" symbol="mSunset"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="38" method="true" symbol="calcSunEqOfCenter"/>
+<entry field="true" id="72" symbol="settingChangedNum"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="75" symbol="testMode"/>
+<entry id="39" method="true" symbol="calcSunTrueLong"/>
+<entry id="84" method="true" symbol="getSettings"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="8389063" symbol="identifier"/>
+<entry field="true" id="20" symbol="NotificationIcon"/>
+<entry field="true" id="58" symbol="pi2"/>
+<entry field="true" id="74" symbol="altChangedNum"/>
+<entry id="15" module="true" symbol="Menus"/>
+<entry field="true" id="21" symbol="HeartRateIcon"/>
+<entry field="true" id="17" symbol="SunsetIcon"/>
+<entry field="true" id="28" symbol="LongitudeTitle"/>
+<entry field="true" id="57" symbol="cy"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="56" symbol="cx"/>
+<entry field="true" id="61" symbol="nowShowing"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435623" name="HA" stackId="5" startPc="268435458"/>
+<entry endPc="268435623" name="sdRad" stackId="4" startPc="268435458"/>
+<entry endPc="268435623" name="latRad" stackId="3" startPc="268435458"/>
+<entry endPc="268435797" name="HA" stackId="5" startPc="268435626"/>
+<entry endPc="268435797" name="sdRad" stackId="4" startPc="268435626"/>
+<entry endPc="268435797" name="latRad" stackId="3" startPc="268435626"/>
+<entry endPc="268435844" name="L0" stackId="2" startPc="268435800"/>
+<entry endPc="268435875" name="M" stackId="2" startPc="268435847"/>
+<entry endPc="268435906" name="e" stackId="2" startPc="268435878"/>
+<entry endPc="268436069" name="m" stackId="2" startPc="268435909"/>
+<entry endPc="268436069" name="sin2m" stackId="5" startPc="268435909"/>
+<entry endPc="268436069" name="mrad" stackId="3" startPc="268435909"/>
+<entry endPc="268436069" name="sin3m" stackId="6" startPc="268435909"/>
+<entry endPc="268436069" name="sinm" stackId="4" startPc="268435909"/>
+<entry endPc="268436069" name="C" stackId="7" startPc="268435909"/>
+<entry endPc="268436112" name="l0" stackId="2" startPc="268436072"/>
+<entry endPc="268436112" name="O" stackId="4" startPc="268436072"/>
+<entry endPc="268436112" name="c" stackId="3" startPc="268436072"/>
+<entry endPc="268436155" name="m" stackId="2" startPc="268436115"/>
+<entry endPc="268436155" name="v" stackId="4" startPc="268436115"/>
+<entry endPc="268436155" name="c" stackId="3" startPc="268436115"/>
+<entry endPc="268436250" name="v" stackId="2" startPc="268436158"/>
+<entry endPc="268436250" name="R" stackId="4" startPc="268436158"/>
+<entry endPc="268436250" name="e" stackId="3" startPc="268436158"/>
+<entry endPc="268436334" name="lambda" stackId="4" startPc="268436253"/>
+<entry endPc="268436334" name="o" stackId="2" startPc="268436253"/>
+<entry endPc="268436334" name="omega" stackId="3" startPc="268436253"/>
+<entry endPc="268436402" name="seconds" stackId="2" startPc="268436337"/>
+<entry endPc="268436402" name="e0" stackId="3" startPc="268436337"/>
+<entry endPc="268436480" name="e" stackId="4" startPc="268436405"/>
+<entry endPc="268436480" name="omega" stackId="3" startPc="268436405"/>
+<entry endPc="268436480" name="e0" stackId="2" startPc="268436405"/>
+<entry endPc="268436645" name="tananum" stackId="4" startPc="268436483"/>
+<entry endPc="268436645" name="tanadenom" stackId="5" startPc="268436483"/>
+<entry endPc="268436645" name="lambda" stackId="3" startPc="268436483"/>
+<entry endPc="268436645" name="alpha" stackId="6" startPc="268436483"/>
+<entry endPc="268436645" name="e" stackId="2" startPc="268436483"/>
+<entry endPc="268436776" name="lambda" stackId="3" startPc="268436648"/>
+<entry endPc="268436776" name="theta" stackId="5" startPc="268436648"/>
+<entry endPc="268436776" name="e" stackId="2" startPc="268436648"/>
+<entry endPc="268436776" name="sint" stackId="4" startPc="268436648"/>
+<entry endPc="268436798" name="T" stackId="2" startPc="268436779"/>
+<entry endPc="268436820" name="JD" stackId="2" startPc="268436801"/>
+<entry endPc="268436970" name="tnoon" stackId="3" startPc="268436823"/>
+<entry endPc="268436970" name="eqTime" stackId="4" startPc="268436823"/>
+<entry endPc="268436970" name="newt" stackId="6" startPc="268436823"/>
+<entry endPc="268436970" name="solNoonUTC" stackId="5" startPc="268436823"/>
+<entry endPc="268437349" name="sin4l0" stackId="10" startPc="268436973"/>
+<entry endPc="268437349" name="Etime" stackId="12" startPc="268436973"/>
+<entry endPc="268437349" name="m" stackId="5" startPc="268436973"/>
+<entry endPc="268437349" name="l0" stackId="3" startPc="268436973"/>
+<entry endPc="268437349" name="sin2m" stackId="11" startPc="268436973"/>
+<entry endPc="268437349" name="e" stackId="4" startPc="268436973"/>
+<entry endPc="268437349" name="sin2l0" stackId="7" startPc="268436973"/>
+<entry endPc="268437349" name="y" stackId="6" startPc="268436973"/>
+<entry endPc="268437349" name="sinm" stackId="8" startPc="268436973"/>
+<entry endPc="268437349" name="epsilon" stackId="2" startPc="268436973"/>
+<entry endPc="268437349" name="cos2l0" stackId="9" startPc="268436973"/>
+<entry endPc="268437622" name="timeDiff" stackId="11" startPc="268437352"/>
+<entry endPc="268437622" name="hourAngle" stackId="9" startPc="268437352"/>
+<entry endPc="268437622" name="noonmin" stackId="5" startPc="268437352"/>
+<entry endPc="268437622" name="timeUTC" stackId="12" startPc="268437352"/>
+<entry endPc="268437622" name="eqTime" stackId="7" startPc="268437352"/>
+<entry endPc="268437622" name="newt" stackId="13" startPc="268437352"/>
+<entry endPc="268437622" name="solarDec" stackId="8" startPc="268437352"/>
+<entry endPc="268437622" name="delta" stackId="10" startPc="268437352"/>
+<entry endPc="268437622" name="t" stackId="4" startPc="268437352"/>
+<entry endPc="268437622" name="tnoon" stackId="6" startPc="268437352"/>
+<entry endPc="268437895" name="timeDiff" stackId="11" startPc="268437625"/>
+<entry endPc="268437895" name="hourAngle" stackId="9" startPc="268437625"/>
+<entry endPc="268437895" name="noonmin" stackId="5" startPc="268437625"/>
+<entry endPc="268437895" name="timeUTC" stackId="12" startPc="268437625"/>
+<entry endPc="268437895" name="eqTime" stackId="7" startPc="268437625"/>
+<entry endPc="268437895" name="newt" stackId="13" startPc="268437625"/>
+<entry endPc="268437895" name="solarDec" stackId="8" startPc="268437625"/>
+<entry endPc="268437895" name="delta" stackId="10" startPc="268437625"/>
+<entry endPc="268437895" name="t" stackId="4" startPc="268437625"/>
+<entry endPc="268437895" name="tnoon" stackId="6" startPc="268437625"/>
+<entry endPc="268438447" name="aa" stackId="9" startPc="268437976"/>
+<entry endPc="268438447" name="JDN" stackId="8" startPc="268437976"/>
+<entry endPc="268438447" name="zz" stackId="14" startPc="268437976"/>
+<entry endPc="268438447" name="cc" stackId="11" startPc="268437976"/>
+<entry endPc="268438447" name="m" stackId="5" startPc="268437976"/>
+<entry endPc="268438447" name="JD" stackId="15" startPc="268437976"/>
+<entry endPc="268438447" name="mn" stackId="7" startPc="268437976"/>
+<entry endPc="268438447" name="ee" stackId="13" startPc="268437976"/>
+<entry endPc="268438447" name="timeInfo" stackId="2" startPc="268437976"/>
+<entry endPc="268438447" name="h" stackId="6" startPc="268437976"/>
+<entry endPc="268438447" name="bb" stackId="10" startPc="268437976"/>
+<entry endPc="268438447" name="y" stackId="4" startPc="268437976"/>
+<entry endPc="268438447" name="a" stackId="3" startPc="268437976"/>
+<entry endPc="268438447" name="dd" stackId="12" startPc="268437976"/>
+<entry endPc="268438595" name="A" stackId="4" startPc="268438450"/>
+<entry endPc="268438595" name="JD" stackId="6" startPc="268438450"/>
+<entry endPc="268438595" name="B" stackId="5" startPc="268438450"/>
+<entry endPc="268438941" name="second" stackId="8" startPc="268438598"/>
+<entry endPc="268438941" name="minute" stackId="7" startPc="268438598"/>
+<entry endPc="268438941" name="hour" stackId="6" startPc="268438598"/>
+<entry endPc="268438941" name="dmsec" stackId="9" startPc="268438598"/>
+<entry endPc="268438941" name="timeInfo" stackId="2" startPc="268438598"/>
+<entry endPc="268438941" name="month" stackId="4" startPc="268438598"/>
+<entry endPc="268438941" name="res" stackId="11" startPc="268438598"/>
+<entry endPc="268438941" name="year" stackId="3" startPc="268438598"/>
+<entry endPc="268438941" name="day" stackId="5" startPc="268438598"/>
+<entry endPc="268438941" name="dayFrac" stackId="10" startPc="268438598"/>
+<entry endPc="268439794" name="battLabelView" stackId="11" startPc="268439695"/>
+<entry endPc="268440095" name="battLabelView" stackId="12" startPc="268439825"/>
+<entry endPc="268441902" name="julianDay" stackId="31" startPc="268441806"/>
+<entry endPc="268442042" name="julianDay" stackId="32" startPc="268441930"/>
+<entry endPc="268442719" name="heartIcon" stackId="38" startPc="268442480"/>
+<entry endPc="268442719" name="heartLabel" stackId="39" startPc="268442480"/>
+<entry endPc="268443177" name="locY" stackId="45" startPc="268443070"/>
+<entry endPc="268443177" name="secLabel" stackId="44" startPc="268443070"/>
+<entry endPc="268443177" name="locX" stackId="46" startPc="268443070"/>
+<entry endPc="268443221" name="secLabel" stackId="47" startPc="268443180"/>
+<entry endPc="268443348" name="blueIcon" stackId="48" startPc="268443232"/>
+<entry endPc="268443409" name="blueIcon" stackId="49" startPc="268443351"/>
+<entry endPc="268443542" name="blueIcon" stackId="50" startPc="268443426"/>
+<entry endPc="268443603" name="blueIcon" stackId="51" startPc="268443545"/>
+<entry endPc="268445249" name="HRS" stackId="25" startPc="268439133"/>
+<entry endPc="268445249" name="bath" stackId="56" startPc="268439133"/>
+<entry endPc="268445249" name="handColor" stackId="53" startPc="268439133"/>
+<entry endPc="268445249" name="hours" stackId="4" startPc="268439133"/>
+<entry endPc="268445249" name="dist" stackId="28" startPc="268439133"/>
+<entry endPc="268445249" name="HRH" stackId="24" startPc="268439133"/>
+<entry endPc="268445249" name="top" stackId="58" startPc="268439133"/>
+<entry endPc="268445249" name="timeLabelView" stackId="20" startPc="268439133"/>
+<entry endPc="268445249" name="multSteps" stackId="34" startPc="268439133"/>
+<entry endPc="268445249" name="stepLabelView" stackId="26" startPc="268439133"/>
+<entry endPc="268445249" name="locY" stackId="36" startPc="268439133"/>
+<entry endPc="268445249" name="angle2" stackId="54" startPc="268439133"/>
+<entry endPc="268445249" name="locX" stackId="37" startPc="268439133"/>
+<entry endPc="268445249" name="move" stackId="27" startPc="268439133"/>
+<entry endPc="268445249" name="location" stackId="10" startPc="268439133"/>
+<entry endPc="268445249" name="dateStr" stackId="16" startPc="268439133"/>
+<entry endPc="268445249" name="timeString" stackId="8" startPc="268439133"/>
+<entry endPc="268445249" name="dateLabelMonthView" stackId="19" startPc="268439133"/>
+<entry endPc="268445249" name="actInfo" stackId="9" startPc="268439133"/>
+<entry endPc="268445249" name="multLabelView" stackId="35" startPc="268439133"/>
+<entry endPc="268445249" name="clockTime" stackId="3" startPc="268439133"/>
+<entry endPc="268445249" name="sunIcon2" stackId="42" startPc="268439133"/>
+<entry endPc="268445249" name="goal" stackId="23" startPc="268439133"/>
+<entry endPc="268445249" name="sunLabel" stackId="41" startPc="268439133"/>
+<entry endPc="268445249" name="timeFormat" stackId="2" startPc="268439133"/>
+<entry endPc="268445249" name="kcal" stackId="29" startPc="268439133"/>
+<entry endPc="268445249" name="sec" stackId="6" startPc="268439133"/>
+<entry endPc="268445249" name="steps" stackId="22" startPc="268439133"/>
+<entry endPc="268445249" name="distLabelView" stackId="30" startPc="268439133"/>
+<entry endPc="268445249" name="sunIcon" stackId="40" startPc="268439133"/>
+<entry endPc="268445249" name="dateLabelView" stackId="18" startPc="268439133"/>
+<entry endPc="268445249" name="testLabelView" stackId="13" startPc="268439133"/>
+<entry endPc="268445249" name="now" stackId="14" startPc="268439133"/>
+<entry endPc="268445249" name="monthStr" stackId="17" startPc="268439133"/>
+<entry endPc="268445249" name="sunLabel2" stackId="43" startPc="268439133"/>
+<entry endPc="268445249" name="batw" stackId="55" startPc="268439133"/>
+<entry endPc="268445249" name="info" stackId="15" startPc="268439133"/>
+<entry endPc="268445249" name="settings" stackId="7" startPc="268439133"/>
+<entry endPc="268445249" name="angleSteps" stackId="33" startPc="268439133"/>
+<entry endPc="268445249" name="batt" stackId="21" startPc="268439133"/>
+<entry endPc="268445249" name="dmove" stackId="52" startPc="268439133"/>
+<entry endPc="268445249" name="min" stackId="5" startPc="268439133"/>
+<entry endPc="268445249" name="batp" stackId="57" startPc="268439133"/>
+<entry endPc="268445406" name="x" stackId="11" startPc="268445267"/>
+<entry endPc="268445406" name="sin" stackId="10" startPc="268445267"/>
+<entry endPc="268445406" name="cos" stackId="9" startPc="268445267"/>
+<entry endPc="268445406" name="y" stackId="12" startPc="268445267"/>
+<entry endPc="268445419" name="i" stackId="8" startPc="268445267"/>
+<entry endPc="268445554" name="x" stackId="8" startPc="268445422"/>
+<entry endPc="268445554" name="sin" stackId="7" startPc="268445422"/>
+<entry endPc="268445554" name="cos" stackId="6" startPc="268445422"/>
+<entry endPc="268445554" name="y" stackId="9" startPc="268445422"/>
+<entry endPc="268445906" name="x" stackId="12" startPc="268445795"/>
+<entry endPc="268445906" name="y" stackId="13" startPc="268445795"/>
+<entry endPc="268445919" name="i" stackId="11" startPc="268445795"/>
+<entry endPc="268445933" name="result" stackId="10" startPc="268445757"/>
+<entry endPc="268446088" name="x" stackId="17" startPc="268445966"/>
+<entry endPc="268446088" name="y" stackId="18" startPc="268445966"/>
+<entry endPc="268446101" name="i" stackId="16" startPc="268445966"/>
+<entry endPc="268446101" name="oldy" stackId="15" startPc="268445936"/>
+<entry endPc="268446101" name="oldx" stackId="14" startPc="268445936"/>
+<entry endPc="268446101" name="result" stackId="7" startPc="268445557"/>
+<entry endPc="268446101" name="sin" stackId="9" startPc="268445557"/>
+<entry endPc="268446101" name="cos" stackId="8" startPc="268445557"/>
+<entry endPc="268446101" name="coords" stackId="6" startPc="268445557"/>
+<entry endPc="268446189" name="h" stackId="2" startPc="268446104"/>
+<entry endPc="268446189" name="mn" stackId="3" startPc="268446104"/>
+<entry endPc="268446189" name="str" stackId="4" startPc="268446104"/>
+<entry endPc="268446277" name="h" stackId="2" startPc="268446192"/>
+<entry endPc="268446277" name="mn" stackId="3" startPc="268446192"/>
+<entry endPc="268446277" name="str" stackId="4" startPc="268446192"/>
+<entry endPc="268446871" name="dsec" stackId="6" startPc="268446703"/>
+<entry endPc="268446871" name="matin" stackId="4" startPc="268446703"/>
+<entry endPc="268446871" name="soir" stackId="5" startPc="268446703"/>
+<entry endPc="268447147" name="dsec" stackId="11" startPc="268446874"/>
+<entry endPc="268447147" name="sunsetYesterday" stackId="8" startPc="268446874"/>
+<entry endPc="268447147" name="sunriseYesterday" stackId="7" startPc="268446874"/>
+<entry endPc="268447147" name="matin" stackId="9" startPc="268446874"/>
+<entry endPc="268447147" name="soir" stackId="10" startPc="268446874"/>
+<entry endPc="268447147" name="sunset" stackId="3" startPc="268446280"/>
+<entry endPc="268447147" name="sunrise" stackId="2" startPc="268446280"/>
+<entry endPc="268447328" name="glSunsetTimeString" stackId="2" startPc="268447150"/>
+<entry endPc="268447328" name="sunLabel" stackId="1" startPc="268447150"/>
+<entry endPc="268447328" name="glSunriseTimeString" stackId="4" startPc="268447150"/>
+<entry endPc="268447328" name="sunLabel2" stackId="3" startPc="268447150"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_MultLabel" stackId="14" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_SunLabel2" stackId="12" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_HeartLabel" stackId="21" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_BattLabel" stackId="4" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_HeartRate" stackId="20" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_LocLabel" stackId="5" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_DistLabel" stackId="8" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_DateLabel" stackId="9" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_SunRise" stackId="13" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_Notification" stackId="19" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_MoveLabel" stackId="7" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_DateLabelDay" stackId="10" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_SunLabel" stackId="11" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_SunSet" stackId="17" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_StepLabel" stackId="6" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_SecLabel" stackId="16" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_Blue" stackId="18" startPc="268447658"/>
+<entry endPc="268449907" name="rez_cmp_local_bitmap_TestLabel" stackId="15" startPc="268447658"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="calcHourAngleSunrise" parent="SunsetSunrise">
+<param id="lat"/>
+<param id="solarDec"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcHourAngleSunset" parent="SunsetSunrise">
+<param id="lat"/>
+<param id="solarDec"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcGeomMeanLongSun" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcGeomMeanAnomalySun" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcEccentricityEarthOrbit" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSunEqOfCenter" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSunTrueLong" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSunTrueAnomaly" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSunRadVector" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSunApparentLong" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcMeanObliquityOfEcliptic" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcObliquityCorrection" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSunRtAscension" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSunDeclination" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcTimeJulianCent" parent="SunsetSunrise">
+<param id="jd"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcJDFromJulianCent" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSolNoonUTC" parent="SunsetSunrise">
+<param id="t"/>
+<param id="longitude"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcEquationOfTime" parent="SunsetSunrise">
+<param id="t"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSunsetUTC" parent="SunsetSunrise">
+<param id="JD"/>
+<param id="latitude"/>
+<param id="longitude"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcSunriseUTC" parent="SunsetSunrise">
+<param id="JD"/>
+<param id="latitude"/>
+<param id="longitude"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="degToRad" parent="SunsetSunrise">
+<param id="degrees"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="radToDeg" parent="SunsetSunrise">
+<param id="rad"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="modulus" parent="SunsetSunrise">
+<param id="a"/>
+<param id="n"/>
+<documentation><![CDATA[<div class="description"> Perform a modulus on two positive (decimal) numbers, i.e. 'a' mod 'n'<br/> 'a' is divident and 'n' is the divisor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="SunTuple">
+<documentation/>
+</functionEntry>
+<functionEntry name="evaluateJulianDay" parent="JulianDay">
+<param id="utcOffset"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcJD" parent="JulianDay">
+<param id="year"/>
+<param id="month"/>
+<param id="day"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcJDNow" parent="JulianDay">
+<param id="utcOffset"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="AltiSunView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="AltiSunView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="AltiSunView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="AltiSunView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawCircleMarker" parent="AltiSunView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="step"/>
+<param id="num"/>
+<param id="radius"/>
+<param id="size"/>
+<param id="filled"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSecondHand" parent="AltiSunView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="radius"/>
+<param id="size"/>
+<param id="filled"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHand" parent="AltiSunView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<param id="filled"/>
+<documentation><![CDATA[<div class="description"> Draw the watch hand<br/> <div class="param"> dc Device Context to Draw</div><br/> <div class="param"> angle Angle to draw the watch hand</div><br/> <div class="param"> length Length of the watch hand</div><br/> <div class="param"> width Width of the watch hand</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="dayMinsToHM" parent="AltiSunView">
+<param id="dmn"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="HMTodayMins" parent="AltiSunView">
+<param id="dmn"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onPosition" parent="AltiSunView">
+<param id="jd"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSunInfo" parent="AltiSunView">
+<documentation/>
+</functionEntry>
+<functionEntry name="abs" parent="AltiSunView">
+<param id="a"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getSettings" parent="AltiSunView">
+<documentation/>
+</functionEntry>
+<functionEntry name="readSettings" parent="AltiSunView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="AltiSunView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="AltiSunView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="AltiSunView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="AltiSunApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="AltiSunApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="AltiSunApp">
+<documentation><![CDATA[<div class="description"> New app settings have been received so trigger a UI update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

@@ -1,0 +1,8 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+	<bitmap id="SunsetIcon" filename="sunset.png"></bitmap>
+	<bitmap id="SunriseIcon" filename="sunrise.png"></bitmap>
+	<bitmap id="BluetoothIcon" filename="bluetooth-16.png"></bitmap>
+	<bitmap id="NotificationIcon" filename="notification-16.png"></bitmap>
+	<bitmap filename="heartrate-20.png" id="HeartRateIcon"></bitmap>
+</drawables>

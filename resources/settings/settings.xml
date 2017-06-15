@@ -1,0 +1,9 @@
+<settings>
+
+    <setting propertyKey="@Properties.Longitude" title="@Strings.LongitudeTitle">
+    	<settingConfig type="numeric"></settingConfig></setting>
+    <setting propertyKey="@Properties.Latitude" title="@Strings.LatitudeTitle">
+    	<settingConfig type="numeric"></settingConfig>
+    </setting>
+
+</settings>

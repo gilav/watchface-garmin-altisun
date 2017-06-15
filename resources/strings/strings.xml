@@ -1,0 +1,5 @@
+<strings>
+    <string id="AppName">AltiSun</string>
+	<string id="LongitudeTitle">Longitude</string>
+	<string id="LatitudeTitle">Latitude</string>
+</strings>
